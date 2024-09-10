@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "dotenv": "^16.4.5",
+    "i": "^0.3.7",
+    "inquire": "^0.4.8",
+    "inquirer": "^10.2.2",
+    "pg": "^8.12.0",
+    "requirer": "^0.0.4"
+  }
+}
