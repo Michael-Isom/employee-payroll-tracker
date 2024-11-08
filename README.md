@@ -29,3 +29,8 @@ Technologies
 	•	PostgreSQL
 	•	dotenv
 
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 6bcdebe (fixing)
