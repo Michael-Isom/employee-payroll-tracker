@@ -1,7 +1,7 @@
 {
   "name": "employee-payroll-tracker",
   "version": "1.0.0",
-  "types": "node_modules",
+  "types": "module",
   "main": "index.mjs",
   "scripts": {
     "start": "node index.mjs"
